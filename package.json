@@ -1,0 +1,22 @@
+{
+  "name": "jsrutut",
+  "version": "1.0.0",
+  "description": "remind git",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillOKCHOK/JSRUTut.git"
+  },
+  "author": "KillOK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KillOKCHOK/JSRUTut/issues"
+  },
+  "homepage": "https://github.com/KillOKCHOK/JSRUTut#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
